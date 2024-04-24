@@ -3,5 +3,5 @@ projectKey=pamdzia:Ebiznes7-server
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.53978
 dashboardUrl=https://sonarcloud.io/dashboard?id=pamdzia%3AEbiznes7-server
-ceTaskId=AY8Rn0C1qRP84eGjS1qF
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY8Rn0C1qRP84eGjS1qF
+ceTaskId=AY8RtAY5T0_6NNsMVXhR
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY8RtAY5T0_6NNsMVXhR
